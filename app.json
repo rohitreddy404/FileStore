@@ -1,5 +1,5 @@
 {
-  "name": "TG File Share/Sharing Bot",
+  "name": "abhi file Sharing Bot",
   "description": "file sharing bot store posts and it can access by special links",
   "keywords": [
     "telegram",
@@ -11,15 +11,15 @@
   "env": {
     "TG_BOT_TOKEN": {
       "description": "Your Bot token, Get it from @Botfather",
-      "value": ""
+      "value": "8105283096:AAEAXZF65L1p339ul8XUQ7pMbvNXw9iRPCI"
     },
     "OWNER_ID": {
       "description": "An integer of consisting of your owner ID",
-      "value": "6497757690"
+      "value": "7845335174"
     },
     "APP_ID":{
       "description": "your app id, take it from my.telegram.org",
-      "value": ""
+      "value": "20366634"
     },
     "DATABASE_URL": {
       "description": "Paste your mongo db url",
